@@ -1,14 +1,23 @@
-# 🖥️ 정우석 포트폴리오
+# 🖥️ Resume 2026
+
+
+# 🧑‍🎓 About Me <br>
+<br>
+안녕하세요 프론트엔드 개발자를 목표하는 정우석입니다.<br>
+편리함과 사용성을 고려한 웹 서비스를 만들기 위해 꾸준히 노력하고 있습니다.
+
+
 ---
 
-#🧑‍🎓 About Me <br>
+# 🗃️ Sections 
+1. 💡 Introduction (머리말)
+2. 🧑‍🎓 About Me (자기 소개)
+3. 💪 Strengths ( 강점 3가지)
+4. 🛠️ Tech Stack (기술 스택 및 수준)
+5. ⭐ Project Showcase (프로젝트 소개)
+6. 📬 Contact (연락처 및 이메일)
 
-프론트엔드 개발자를 목표하며 
-
-
-
----
-
+----
 # 🛠️ Tech Stack
 ·  **HTML5**<br>
 ·  **CSS3<br/>**
@@ -19,21 +28,12 @@
 **· Figma <br/>**
 **· Github <br/>**
 
-----
-
-# 🗃️ Sections (
-1. 💡 Introduction (머리말)
-2. 🧑‍🎓 About Me (자기 소개)
-3. 💪 Strengths ( 강점 3가지)
-4. 🛠️ Tech Stack (기술 스택 및 수준)
-5. 🎨 Project Showcase (프로젝트 소개)
-6. 📬 Contact (연락처 및 이메일)
 ---
 
-# ✨ Key Features (핵심 구현 기능)
+# ✨ Key Features
 
 * **Flex와 Grid를 이용한 박스 모델(Card UI) 설계**<br>
-  · 개인 정보 구역에는 Grid 체계를 적용하여 다차원 레이아웃을 깔끔하게 구조화했습니다.
+  · 개인 정보 구역에는 Grid 체계를 적용하여  레이아웃을 깔끔하게 구조화했습니다.
 
 ```css
 .info-grid {
@@ -68,6 +68,9 @@ br 태그를 무시하는 예외 처리를 구현했습니다.
   }
 }
 ```
+
+# 📬 Contact
+· Email: frontname1004@gmail.com / · GitHub : https://github.com/frontname1004
 
 
 
